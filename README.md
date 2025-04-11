@@ -20,7 +20,9 @@ Zoals te zien in de grafieken hangen het aantal vissen en haaien heel erg af van
 als er geen vissen zijn kunnen de haaien niet meer eten waardoor de haaien doodgaan
 en er meer vissen komen waardoor er weer meer haaien komen waardoor er weer meer
 vissen doodgaan. Dit gaat zo door totdat 1 van de 2 soorten uitsterft.
-Reflectie:
+
+![grafieken_1](https://github.com/Milan2509/aquarium-netlogo/blob/main/grafieken/grafieken_1.png)
+## Reflectie
 Over het algemeen ging het wel goed, er waren wel een paar kleine probleempjes.
 Vooral het implementeren van de haaien ging heel moeizaam (ze gingen de hele tijd
 doodt) maar uiteindelijk is alles gelukt.

@@ -22,6 +22,7 @@ en er meer vissen komen waardoor er weer meer haaien komen waardoor er weer meer
 vissen doodgaan. Dit gaat zo door totdat 1 van de 2 soorten uitsterft.
 
 ![grafieken_1](https://github.com/Milan2509/aquarium-netlogo/blob/main/grafieken/grafieken_1.png)
+![grafieken_2](https://github.com/Milan2509/aquarium-netlogo/blob/main/grafieken/grafieken_2.png)
 ## Reflectie
 Over het algemeen ging het wel goed, er waren wel een paar kleine probleempjes.
 Vooral het implementeren van de haaien ging heel moeizaam (ze gingen de hele tijd

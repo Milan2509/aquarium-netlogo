@@ -1,5 +1,5 @@
 # Verslag Netlogo PO.
-_Milan en Luuk._
+_Door Milan en Luuk._
 ## Samenwerking
 De samenwerking ging wel soepel, we hebben een goede taakverdeling gemaakt en we
 hebben ons er ook allebei goed aan gehouden.

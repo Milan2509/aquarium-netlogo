@@ -4,17 +4,17 @@ _Milan en Luuk._
 De samenwerking ging wel soepel, we hebben een goede taakverdeling gemaakt en we
 hebben ons er ook allebei goed aan gehouden.
 ## Uitbreidingen
-• Vissen gaan dood wanneer ze een bepaalde leeftijd bereiken
-• Vissen krijgen nu een geslacht wanneer ze gemaakt worden.
-• Vissen moeten genoeg energie hebben om voor te planten.
-• Vissen kunnen alleen voortplanten met een vis van het tegenovergestelde
+- Vissen gaan dood wanneer ze een bepaalde leeftijd bereiken
+- Vissen krijgen nu een geslacht wanneer ze gemaakt worden.
+- Vissen moeten genoeg energie hebben om voor te planten.
+- Vissen kunnen alleen voortplanten met een vis van het tegenovergestelde
 geslacht.
-• Vissen kunnen alleen voortplanten met andere vissen in hun omgeving.
-• Vissen hebben nu een kans om doodt te gaan als ze een giftige alg eten.
-• Vissen kunnen nu ook opgegeten worden door een ander vissoort, de haaien.
-• Haaien kunnen ouder worden dan vissen maar krijgen minder kinderen dan
+- Vissen kunnen alleen voortplanten met andere vissen in hun omgeving.
+- Vissen hebben nu een kans om doodt te gaan als ze een giftige alg eten.
+- Vissen kunnen nu ook opgegeten worden door een ander vissoort, de haaien.
+- Haaien kunnen ouder worden dan vissen maar krijgen minder kinderen dan
 vissen.
-• Vissen hebben zuurstof nodig die ze uit blauwe blokjes kunnen halen.
+- Vissen hebben zuurstof nodig die ze uit blauwe blokjes kunnen halen.
 ## Resultaten en inzichten/conclusies
 Zoals te zien in de grafieken hangen het aantal vissen en haaien heel erg af van elkaar,
 als er geen vissen zijn kunnen de haaien niet meer eten waardoor de haaien doodgaan

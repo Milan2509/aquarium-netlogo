@@ -16,9 +16,9 @@ geslacht.
 vissen.
 - Vissen hebben zuurstof nodig die ze uit blauwe blokjes kunnen halen.
 ## Resultaten en inzichten/conclusies
-Zoals te zien in de grafieken hangen het aantal vissen en haaien heel erg af van elkaar,
-als er geen vissen zijn kunnen de haaien niet meer eten waardoor de haaien doodgaan
-en er meer vissen komen waardoor er weer meer haaien komen waardoor er weer meer
+Zoals te zien in de grafieken hangen het aantal vissen en haaien heel erg af van elkaar.
+Als er geen vissen zijn kunnen de haaien niet meer eten waardoor de haaien doodgaan.
+Hierdoor komen er meer vissen komen waardoor, er weer meer haaien komen waardoor er weer meer
 vissen doodgaan. Dit gaat zo door totdat 1 van de 2 soorten uitsterft.
 
 ![grafieken_1](https://github.com/Milan2509/aquarium-netlogo/blob/main/grafieken/grafieken_1.png)

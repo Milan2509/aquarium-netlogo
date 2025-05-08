@@ -26,6 +26,7 @@ Dit gebeurt omdat er een random kans is of er een mannetje of vrouwtje wordt geb
 Als dit vaker gebeurt dan blijven er uiteindelijk alleen maar vroutjes over.
 
 Hoewel de haaien meestal overleven gaan de vissen soms ook dood. Dit komt doordat er giftige alg bestaat die of de vis vermoord of de energie wordt heel erg verlaagt.
+De vissen gaan soms ook dood 
 
 ![grafieken_1](https://github.com/Milan2509/aquarium-netlogo/blob/main/grafieken/grafieken_1.png)
 ![grafieken_2](https://github.com/Milan2509/aquarium-netlogo/blob/main/grafieken/grafieken_2.png)

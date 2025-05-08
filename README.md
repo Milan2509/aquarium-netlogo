@@ -21,6 +21,12 @@ Als er geen vissen zijn kunnen de haaien niet meer eten waardoor de haaien doodg
 Hierdoor komen er meer vissen komen waardoor, er weer meer haaien komen waardoor er weer meer
 vissen doodgaan. Dit gaat zo door totdat 1 van de 2 soorten uitsterft.
 
+Wat ook in de meeste simulaties gebeurt is dat er 1 geslacht haaien overblijft, dit zorgt ervoor dat de populatie haaien niet meer groeit.
+Dit gebeurt omdat er een random kans is of er een mannetje of vrouwtje wordt geboren. Dit kan betekenen dat er van de 4 haaien die er worden geboren er 3 van dan vrouwtjes zijn. 
+Als dit vaker gebeurt dan blijven er uiteindelijk alleen maar vroutjes over.
+
+
+
 ![grafieken_1](https://github.com/Milan2509/aquarium-netlogo/blob/main/grafieken/grafieken_1.png)
 ![grafieken_2](https://github.com/Milan2509/aquarium-netlogo/blob/main/grafieken/grafieken_2.png)
 ## Reflectie

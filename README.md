@@ -28,10 +28,11 @@ Als dit vaker gebeurt dan blijven er uiteindelijk alleen maar vroutjes over.
 Hoewel de haaien meestal overleven gaan de vissen soms ook dood. Dit komt doordat er giftige alg bestaat die of de vis vermoord of de energie wordt heel erg verlaagt.
 De vissen gaan soms ook dood doordat ze geen zuurstof meer hebben, wat ze nodig hebben om te leven en te bewegen.
 
-In de laatste 2 grafieken kun je ook heel mooi zien hoe het aantal haaien en vissen van elkaar afhangt. Als er te veel vissen worden opgegeten sterfen de haaien omdat ze te weinig eten hebben, waardoor er weer meer vissen komen omdat ze niet langer worden opgegeten door de haaien, waardoor er weer meer haaien komen omdat die meer te eten hebben. Dit gaat zo door totdat er iets te veel of te weinig van 1 soort komt en de andere soort uitsterft.
-
 ![grafieken_1](https://github.com/Milan2509/aquarium-netlogo/blob/main/grafieken/grafieken_1.png)
 ![grafieken_2](https://github.com/Milan2509/aquarium-netlogo/blob/main/grafieken/grafieken_2.png)
+
+In de grafieken hier onder kun je ook heel mooi zien hoe het aantal haaien en vissen van elkaar afhangt. Als er te veel vissen worden opgegeten sterfen de haaien omdat ze te weinig eten hebben, waardoor er weer meer vissen komen omdat ze niet langer worden opgegeten door de haaien, waardoor er weer meer haaien komen omdat die meer te eten hebben. Dit gaat zo door totdat er iets te veel of te weinig van 1 soort komt en de andere soort uitsterft.
+
 ![grafiek_haaien](https://github.com/Milan2509/aquarium-netlogo/blob/main/grafieken/grafiek_haaien.png)
 ![grafiek_vissen](https://github.com/Milan2509/aquarium-netlogo/blob/main/grafieken/grafiek_vissen.png)
 ## Reflectie
